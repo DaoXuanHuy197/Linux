@@ -72,8 +72,10 @@ Xác định vị trí chương trình đang ở đâu mở rộng hơn ta dùng
 find /var -name *.log
 ```
 
-Sẽ có kết quả :
+Sẽ có kết quả :  
+
 ![Imgur](https://i.imgur.com/LS4t3YB.png)
+
 - Tìm kiếm tệp và thư mục có tên là “gcc”:
 
      $ find /usr -name gcc
