@@ -115,6 +115,7 @@ Với tùy chọn –t ta có thể đặt dấu ngày giờ của tệp. Để 
 Ta dùng lệnh mkdir để tạo một thư mục. Xóa một thư mục ta dùng lệnh rmkdir. Thư mục này phải trống bằng không nó sẽ không xóa đc.
 ![Imgur](https://i.imgur.com/SW0as7i.png)
 ## So sánh các tệp tin
-Ta sử dụng lệnh diff để so sánh các tập tin và thư mục
+Ta sử dụng lệnh diff để so sánh các tập tin và thư mục  
+
 ![Imgur](https://i.imgur.com/uWhNHZt.png)
 
